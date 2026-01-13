@@ -19,7 +19,6 @@ public class MinimumSizeSubarraySumK {
                 left++;
             }
         }
-
         if(minLen == Integer.MAX_VALUE){
             return 0;
         }
